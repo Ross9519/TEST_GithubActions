@@ -10,3 +10,10 @@ jobs:
     steps:
       - name: Hello step
         run: echo "Hello world :)" 
+  my_second_job:
+    runs-on: "ubuntu-latest"
+    steps:
+      - name: checkout
+        uses: actions/checkout@v4
+      - name: ls
+        run: ls
