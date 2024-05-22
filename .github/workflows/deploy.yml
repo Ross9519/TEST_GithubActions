@@ -15,4 +15,4 @@ jobs:
               with:
                 dotnet-version: '8.x.x'
             - run: dotnet build ConsoleAppForTestingLesson
-            - run: dotnet test TestForTestingLesson
+            - run: dotnet test ConsoleAppForTestingLesson   
