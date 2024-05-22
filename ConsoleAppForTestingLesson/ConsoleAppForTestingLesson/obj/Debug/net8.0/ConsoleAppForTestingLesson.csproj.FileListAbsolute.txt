@@ -1,0 +1,14 @@
+C:\Users\gianr\source\repos\ConsoleAppForTestingLesson\ConsoleAppForTestingLesson\bin\Debug\net8.0\ConsoleAppForTestingLesson.exe
+C:\Users\gianr\source\repos\ConsoleAppForTestingLesson\ConsoleAppForTestingLesson\bin\Debug\net8.0\ConsoleAppForTestingLesson.deps.json
+C:\Users\gianr\source\repos\ConsoleAppForTestingLesson\ConsoleAppForTestingLesson\bin\Debug\net8.0\ConsoleAppForTestingLesson.runtimeconfig.json
+C:\Users\gianr\source\repos\ConsoleAppForTestingLesson\ConsoleAppForTestingLesson\bin\Debug\net8.0\ConsoleAppForTestingLesson.dll
+C:\Users\gianr\source\repos\ConsoleAppForTestingLesson\ConsoleAppForTestingLesson\bin\Debug\net8.0\ConsoleAppForTestingLesson.pdb
+C:\Users\gianr\source\repos\ConsoleAppForTestingLesson\ConsoleAppForTestingLesson\obj\Debug\net8.0\ConsoleAppForTestingLesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianr\source\repos\ConsoleAppForTestingLesson\ConsoleAppForTestingLesson\obj\Debug\net8.0\ConsoleAppForTestingLesson.AssemblyInfoInputs.cache
+C:\Users\gianr\source\repos\ConsoleAppForTestingLesson\ConsoleAppForTestingLesson\obj\Debug\net8.0\ConsoleAppForTestingLesson.AssemblyInfo.cs
+C:\Users\gianr\source\repos\ConsoleAppForTestingLesson\ConsoleAppForTestingLesson\obj\Debug\net8.0\ConsoleAppForTestingLesson.csproj.CoreCompileInputs.cache
+C:\Users\gianr\source\repos\ConsoleAppForTestingLesson\ConsoleAppForTestingLesson\obj\Debug\net8.0\ConsoleAppForTestingLesson.dll
+C:\Users\gianr\source\repos\ConsoleAppForTestingLesson\ConsoleAppForTestingLesson\obj\Debug\net8.0\refint\ConsoleAppForTestingLesson.dll
+C:\Users\gianr\source\repos\ConsoleAppForTestingLesson\ConsoleAppForTestingLesson\obj\Debug\net8.0\ConsoleAppForTestingLesson.pdb
+C:\Users\gianr\source\repos\ConsoleAppForTestingLesson\ConsoleAppForTestingLesson\obj\Debug\net8.0\ConsoleAppForTestingLesson.genruntimeconfig.cache
+C:\Users\gianr\source\repos\ConsoleAppForTestingLesson\ConsoleAppForTestingLesson\obj\Debug\net8.0\ref\ConsoleAppForTestingLesson.dll
