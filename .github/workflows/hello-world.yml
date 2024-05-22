@@ -3,3 +3,10 @@ name: Hello World
 on:
   push:
     branches: ["**"]
+
+jobs:
+  my_first_job:
+    runs-on: "ubuntu-latest"
+    steps:
+      - name: Hello step
+        run: echo "Hello world :)" 
